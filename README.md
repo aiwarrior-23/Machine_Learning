@@ -1,2 +1,3 @@
-# machine_learning_basics
-Understanding Basics of ML Concepts
+# Machine Learning Repository
+
+With Theoratical Explanations of different Machine Learning Concepts
